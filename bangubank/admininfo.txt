@@ -1,0 +1,2 @@
+email : admin@bangubank.com
+pass: 12345
